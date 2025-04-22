@@ -1,0 +1,55 @@
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+body {
+    background-color: rgb(255, 255, 255);
+    color:rgb(74, 189, 8);
+    margin: auto 0px;
+    
+}
+
+article {
+    display: block;
+    background-color: #141414;
+    width: 100rem;
+    height: rem;
+    text-align: center;
+    box-shadow: 1px 1px 10px rgb(74, 189, 8);
+    margin: auto;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    border-radius: 6ch;
+    
+}
+
+article.segundo-artigo {
+    background-color: rgb(99, 99, 99);
+    color:#141414;
+    
+    rigth: 200px;
+}
+
+article.quarto-artigo {
+    background-color: rgb(99, 99, 99);
+    color: #141414;
+}
+
+footer.rodape {
+    display: block;
+    margin: auto;
+    padding: 50px;
+}
+
+footer p{
+    text-align: center;
+    color: #141414;
+}
